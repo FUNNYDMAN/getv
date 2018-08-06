@@ -1,5 +1,10 @@
 # Getv
+
+[![Documentation Status](https://readthedocs.org/projects/getv/badge/?version=latest)](https://getv.readthedocs.io/en/latest/?badge=latest)
+
+
 #### please notice, package not ready for production!
+
 This package provides simple way to get last version string from github. It may be useful if you wanna display this info somewhere in your project. 
 
 ## Getting started
