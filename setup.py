@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="getv",
-    version="0.0.1",
+    version="0.0.2",
     author="FUNNYDMAN",
     author_email="crazy-dzmitry@mail.ru",
     description="Display release info somewhere in your project",
