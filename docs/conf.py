@@ -16,7 +16,7 @@
 import os
 import sys
 
-PROJECT_ROOT = os.path.dirname(os.path.abspath('.'))
+PROJECT_ROOT = os.path.abspath('.')
 sys.path.insert(0, os.path.join(PROJECT_ROOT, 'getv'))
 
 # -- Project information -----------------------------------------------------
