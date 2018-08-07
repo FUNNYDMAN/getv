@@ -22,7 +22,4 @@ pip list
 ```
 ## How to use it
 
-```python
-from getv.main import get_last_version
-get_last_version()
-```
+[documentation](https://getv.readthedocs.io/en/latest/)
