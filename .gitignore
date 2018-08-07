@@ -105,3 +105,6 @@ venv.bak/
 
 # Project
 .idea
+
+# For testing
+app/
