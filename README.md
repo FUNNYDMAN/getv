@@ -5,7 +5,7 @@
 [![Documentation Status](https://readthedocs.org/projects/getv/badge/?version=latest)](https://getv.readthedocs.io/en/latest/?badge=latest)
 
 
-#### please notice, package not ready for production!
+#### please notice, package is not ready for production!
 
 This package provides simple way to get last version string of project from github. It may be useful if you wanna display this info somewhere in your app. 
 
